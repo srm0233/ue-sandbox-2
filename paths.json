@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/universal-editor-sb1-site/:/",
+    "/content/universal-editor-sb1-site/configuration:/.helix/config.json",
+    "/content/universal-editor-sb1-site/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/universal-editor-sb1-site/"
+  ]
+}
