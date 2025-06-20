@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/ue-sandbox-2/:/",
-    "/content/ue-sandbox-2/configuration:/.helix/config.json",
-    "/content/ue-sandbox-2/metadata:/metadata.json"
+    "/content/ue-sandbox-2-site/:/",
+    "/content/ue-sandbox-2-site/configuration:/.helix/config.json",
+    "/content/ue-sandbox-2-site/metadata:/metadata.json"
   ],
   "includes": [
     "/content/ue-sandbox-2-site/"
